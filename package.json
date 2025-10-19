@@ -1,0 +1,24 @@
+{
+  "name": "hms-showcase",
+  "version": "1.0.0",
+  "description": "Hospital Management System - Showcase Repository",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"This is a showcase repository\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZiadGamalDev/hms-showcase.git"
+  },
+  "keywords": [
+    "hospital",
+    "management",
+    "system",
+    "laravel",
+    "showcase",
+    "portfolio"
+  ],
+  "author": "Ziad Gamal",
+  "license": "MIT",
+  "homepage": "https://github.com/ZiadGamalDev/hms-showcase#readme"
+}
