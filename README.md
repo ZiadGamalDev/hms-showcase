@@ -114,7 +114,7 @@ This project is not currently open for contribution. It's meant to be a personal
 
 Check out the live version of the Hospital Management System:
 
-👉 [https://hms.dinamo-app.com](https://hms.dinamo-app.com)
+👉 [https://n8n.khalmapro.com](https://n8n.khalmapro.com) (TEMP - using n8n subdomain until hms subdomain is ready)
 
 ---
 
