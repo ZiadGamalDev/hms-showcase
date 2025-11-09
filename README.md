@@ -114,7 +114,9 @@ This project is not currently open for contribution. It's meant to be a personal
 
 Check out the live version of the Hospital Management System:
 
-👉 [http://72.60.94.221:8080](http://72.60.94.221:8080) (TEMP - using IP:port until hms subdomain is ready)
+👉 **[https://hms.ziadgamal.com](https://hms.ziadgamal.com)**
+
+> 🎉 Live and ready to explore! Use the test credentials below to try different user roles.
 
 ---
 
